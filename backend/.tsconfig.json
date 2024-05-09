@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "module": "nodeNext",
+    "moduleResolution": "nodeNext",
+    "noImplicitAny": true,
+    "sourceMap": true,
+    "removeComments": true,
+    "rootDir": "src",
+    "outDir": "dist"
+  },
+  "include": ["src/**/**"],
+  "exclude": ["node_modules"]
+}
